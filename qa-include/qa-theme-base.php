@@ -913,6 +913,9 @@ class qa_html_theme_base
 		$this->output(
 			'<div class="qa-attribution">',
 			'Powered by <a href="http://www.question2answer.org/">Question2Answer</a>',
+			'</div>',
+			'<div class="qa-attribution">',
+			'<a href="https://github.com/godotengine/godot-question2answer">Github Repository</a>',
 			'</div>'
 		);
 	}
