@@ -1,0 +1,4 @@
+input[name="url"] {
+  /* Used on registration form */
+  display: none;
+}
