@@ -1,0 +1,11 @@
+{
+        "name": "Godot Custom Layouts",
+        "description": "",
+        "version": "1.0",
+        "date": "2023-10-05",
+        "author": "Godot Organization",
+        "author_uri": "https://godotengine.org",
+        "license": "MIT",
+        "min_q2a": "1.4",
+        "load_order": "after_db_init"
+}
