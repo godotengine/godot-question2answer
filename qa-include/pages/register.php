@@ -24,6 +24,8 @@ if (!defined('QA_VERSION')) { // don't allow this page to be requested directly 
 	exit;
 }
 
+die("Registration is disabled.")
+
 require_once QA_INCLUDE_DIR . 'app/captcha.php';
 require_once QA_INCLUDE_DIR . 'db/users.php';
 
